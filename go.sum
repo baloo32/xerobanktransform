@@ -1,0 +1,6 @@
+github.com/op/go-logging v0.0.0-20160315200505-970db520ece7 h1:lDH9UUVJtmYCjyT0CI4q8xvlXPxeZ0gYCVvWbmPlp88=
+github.com/op/go-logging v0.0.0-20160315200505-970db520ece7/go.mod h1:HzydrMdWErDVzsI23lYNej1Htcns9BCg93Dk0bBINWk=
+github.com/stretchr/pat v0.0.0-20140812192038-f7fe051f2b9b h1:vlBEinxVciz1S/xTRilPKzASEXwICTwxHzZ6mVg5ZI8=
+github.com/stretchr/pat v0.0.0-20140812192038-f7fe051f2b9b/go.mod h1:+Q5hXTBIK1YdSS69W/MQu+7s5vzlvPhN2VfDz/cT6Cs=
+github.com/stretchr/slog v0.0.0-20150331141657-117d3dd1018d h1:nMx1HWZQukPI5C20PC0FAMezQ/VnF2HrPDsGJgNhBJg=
+github.com/stretchr/slog v0.0.0-20150331141657-117d3dd1018d/go.mod h1:86d0GVh9l+jTwFERbYUTDQojX4T66Uvlz0J6yzqJbSw=
