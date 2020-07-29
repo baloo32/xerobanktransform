@@ -1,4 +1,4 @@
 #!/bin/bash
-export DATA_FILE="data/ctostartup/March 2020/Report-20200331090257.csv"
-export OUT_FILE="data/ctostartup/March 2020/Transform-Report-20200331090257.csv"
+export DATA_FILE="data/ctostartup/May 2020/OpTransactionHistoryUX526-05-2020.csv"
+export OUT_FILE="data/ctostartup/May 2020/Transform-OpTransactionHistoryUX526-05-2020.csv.csv"
 ./run.sh
